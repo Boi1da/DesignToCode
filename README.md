@@ -1,5 +1,5 @@
-# DesignToCode
-Bi-weekly practice designing and implementing Apps from Sketch to XCode 9.
+# DesignToCode (Currently on pause due to employment).
+Bi-weekly practice designing and implementing Apps from Sketch to XCode 9. (Since finding employment this project has been put on hold).
 
 ## List of current Design To Code projects 
 1. Wyve (Fashion E-Commerce App) 
